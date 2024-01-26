@@ -15,7 +15,7 @@ npm install electron-packager -g
 ```
 
 ### 4. Build App
-In the terminal, run the command below to build the app. Replace (app-directory) with the path to the extracted zip file.
+In the terminal, run the command below to build the app. Replace (app-directory) with the path to the extracted zip file (may look like "C:/Users/your-name/Downloads/Student-Management-App/WebApp-Copy")
 ```
 electron-packager (app-directory) Student_Management_App --platform=win32 --arch=x64
 ```

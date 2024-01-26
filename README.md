@@ -24,4 +24,5 @@ If you want to create a shortcut to the app, take note of where it builds to (it
 ### 5. Create Desktop Shortcut (optional)
 To create a desktop shortcut, right click on your desktop and click New>Shortcut.
 You will be prompted for the location of the app's .exe file (it may look like this "C:/Users/your-name/Student-Management-App-Win32-x64/"). Scroll down and selcect the "Student-Management-App.exe" file. 
+
 ![image](https://github.com/2a3s4d/Student-Management-App/assets/84204533/89d4077b-ecce-48ae-87f1-79ca669f7683)

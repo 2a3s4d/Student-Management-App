@@ -5,6 +5,7 @@ Download the Student-Management-App.zip file and unzip it to a location of your 
 
 ### 2. Install Node.js
 Go to the node.js website and install the recommended version here: https://nodejs.org
+
 ---> Make sure to to say **yes** when the setup wizard asks you if you want to install the additional packages. <---
 
 ### 3. Install Electron Packager
